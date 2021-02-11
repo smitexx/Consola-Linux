@@ -1,0 +1,2 @@
+./simplesh.py -i boletin2.json -t 3 -d
+./simplesh.py -i boletin2.json
